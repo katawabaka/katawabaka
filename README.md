@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm katawabaka</h1>
 <h3 align="center">Python Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=katawabaka&label=Profile%20views&color=f1c9fe&style=flat" alt="katawabaka" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=katawabaka&label=Profile%20views&color=f1c9fe&style=flat" alt="katawabaka"/></p>
 
 <h3 align="center">Connect with me!</h3>
 
