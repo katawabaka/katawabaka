@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm katawabaka</h1>
 <h3 align="center">Python Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=katawabaka&label=Profile%20views&color=f1c9fe&style=flat" alt="katawabaka" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=katawabaka&label=Profile%20views&color=f1c9fe&style=flat" alt="katawabaka" /> </p>
 
 ### Connect with me:
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="30" height="30">](https://twitter.com/katawabaka)
