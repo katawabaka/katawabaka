@@ -6,8 +6,8 @@
 <h3 align="center">Connect with me!</h3>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="30" height="30" href="https://twitter.com/katawabaka">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="30" href = "https://instagram.com/definitelynotkatawa">
+<a href = "https://instagram.com/definitelynotkatawa"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="30" height="30"></a>
+<a href = "https://instagram.com/definitelynotkatawa"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="30"></a>
 </p>
  
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=katawabaka&show_icons=true&locale=en" alt="katawabaka" /></p>
